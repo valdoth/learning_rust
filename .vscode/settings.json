@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.workspace.symbol": {
+        "search.kind": "only"
+    },
+    "rust-analyzer.cargo.allFeatures": true,
+    "rust-analyzer.checkOnSave.allTargets": true,
+    "rust-analyzer.checkOnSave.command": "clippy"
+}
