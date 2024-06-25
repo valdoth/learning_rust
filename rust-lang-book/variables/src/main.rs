@@ -15,6 +15,6 @@ fn main() {
     let error_codes = [200, 304, 500];
     let not_found = error_codes[1];
     let byte = [0; 8];
-    println!("error code not_found: {}", not_found);
+    println!("error code not_found: {}, others code errors: {:?}", not_found, error_codes);
     println!("byte : {:?}", byte);
 }
