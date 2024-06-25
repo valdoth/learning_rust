@@ -1,5 +1,6 @@
 [workspace]
 members = [
-    "rust-lang-book/chapter1/hello_cargo",
-    "rust-lang-book/chapter2/guessing_game"
+    "rust-lang-book/hello_cargo",
+    "rust-lang-book/guessing_game",
+    "rust-lang-book/variables",
 ]
