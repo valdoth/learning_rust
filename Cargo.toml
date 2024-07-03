@@ -2,5 +2,6 @@
 members = [
     "rust-lang-book/hello_cargo",
     "rust-lang-book/guessing_game",
-    "rust-lang-book/variables",
+    "rust-lang-book/variables", 
+    "rust-lang-book/ownership",
 ]
